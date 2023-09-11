@@ -12,7 +12,7 @@ Hello! 👋 I'm Yanis Chiouar, a 19-year-old student currently in my second year
 - **Hard Skills:** I possess a strong foundation in various programming languages such as Python, PHP, C, Java, JavaScript, TypeScript, HTML/CSS, and SQL. Moreover, I am proficient in database management systems like PostgreSQL and MySQL.
 - **Tools:** I'm well-versed in using essential tools for software development, including Git and Linux.
 
-**Professional Aspirations:**
+**Professional Project:**
 - I am actively seeking a 2-month internship opportunity between April and June, with a focus on web development and database management. I am eager to apply my skills and knowledge in a real-world setting and contribute to meaningful projects.
 
 I'm passionate about technology, always eager to learn, and thrive in collaborative environments. Feel free to connect with me if you'd like to discuss potential opportunities or collaborate on exciting projects.
@@ -29,7 +29,7 @@ Salut ! 👋 Je suis Yanis Chiouar, un étudiant de 19 ans actuellement en deuxi
 - **Compétences techniques :** Je possède une solide base dans plusieurs langages de programmation tels que Python, PHP, C, Java, JavaScript, TypeScript, HTML/CSS et SQL. De plus, je maîtrise les systèmes de gestion de bases de données tels que PostgreSQL et MySQL.
 - **Outils :** Je suis familiarisé avec l'utilisation d'outils essentiels pour le développement de logiciels, notamment Git et Linux.
 
-**Aspirations professionnelles :**
+**Projet professionnel :**
 - Je suis activement à la recherche d'une opportunité de stage de 2 mois entre avril et juin, axée sur le développement web et la gestion de bases de données. Je suis impatient de mettre en pratique mes compétences et mes connaissances dans un contexte réel et de contribuer à des projets significatifs.
 
 Je suis passionné par la technologie, toujours avide d'apprendre, et je m'épanouis dans les environnements collaboratifs. N'hésitez pas à me contacter si vous souhaitez discuter de possibilités potentielles ou collaborer sur des projets passionnants.
