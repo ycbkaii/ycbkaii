@@ -34,5 +34,5 @@ Salut ! 👋 Je suis Yanis Chiouar, un étudiant de 19 ans actuellement en deuxi
 
 Je suis passionné par la technologie, toujours avide d'apprendre, et je m'épanouis dans les environnements collaboratifs. N'hésitez pas à me contacter si vous souhaitez discuter de possibilités potentielles ou collaborer sur des projets passionnants.
 
-Mail : yanis.chiouar@gmail.com <img style="width:10px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/>
-Linkedin : https://www.linkedin.com/in/yanis-chiouar-5a5074268/ <img style="width:10px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
+Mail : yanis.chiouar@gmail.com <img style="width:20px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/>
+Linkedin : https://www.linkedin.com/in/yanis-chiouar-5a5074268/ <img style="width:20px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
