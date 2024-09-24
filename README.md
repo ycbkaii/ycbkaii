@@ -1,25 +1,9 @@
 # Yanis Chiouar - Profile ReadMe
 
-## English
-
-Hello! 👋 I'm Yanis Chiouar, a 19-year-old student currently in my second year of pursuing a Bachelor's degree in Computer Science at Lannion. My academic journey has been filled with a diverse set of experiences and skills, and I'm excited to share them with you.
-
-
-**Specialization:**
-- My areas of specialization encompass a wide range of exciting fields, including database management, web development, software development, and data analysis.
-
-**Skills:**
-- **Hard Skills:** I possess a strong foundation in various programming languages such as Python, PHP, C, Java, JavaScript, TypeScript, HTML/CSS, and SQL. Moreover, I am proficient in database management systems like PostgreSQL and MySQL.
-- **Tools:** I'm well-versed in using essential tools for software development, including Git and Linux.
-
-**Professional Project:**
-- I am actively seeking a 2-month internship opportunity between April and June, with a focus on web development and database management. I am eager to apply my skills and knowledge in a real-world setting and contribute to meaningful projects.
-
-I'm passionate about technology, always eager to learn, and thrive in collaborative environments. Feel free to connect with me if you'd like to discuss potential opportunities or collaborate on exciting projects.
 
 ## Français
 
-Salut ! 👋 Je suis Yanis Chiouar, un étudiant de 19 ans actuellement en deuxième année de licence de BUT en informatique à Lannion. Mon parcours académique a été riche en expériences diverses et en compétences, et je suis enthousiaste à l'idée de les partager avec vous.
+Salut ! 👋 Je suis Yanis Chiouar, un étudiant de 20 ans actuellement en troisième année de licence de BUT en informatique à Lannion. Mon parcours académique a été riche en expériences diverses et en compétences, et je suis enthousiaste à l'idée de les partager avec vous.
 
 
 **Spécialisation :**
