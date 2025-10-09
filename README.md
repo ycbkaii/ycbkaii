@@ -1,8 +1,6 @@
 # Yanis Chiouar - Profile ReadMe
 
 
-## Français
-
 Bonjour,
 je suis Yanis Chiouar
 
